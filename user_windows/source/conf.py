@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Windows Client Guide'
-copyright = '2018, GreenCity Solutions'
-author = 'GreenCity Solutions'
+copyright = '2021 - Samet Corp All Rights Reserved'
+author = 'Samet Corp'
 
-prodname = 'DIVVIED'
+prodname = 'SametFiles'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
